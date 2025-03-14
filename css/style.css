@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color: gold;    
+}
+
+.main-page-logo{
+    padding: 1vw 32vw;
+}
+
+.peacock-1{
+    scale: 20%;
+    top: 2vw;
+    left: 9vw;
+    position: absolute;
+}
+
+.peacock-2{
+    scale: 20%;
+    top: 2vw;
+    left: 38vw;
+    position: absolute;
+    /* -webkit-transform: scaleX(-1); */
+    transform: scaleX(-1);
+}
+
+.couple-name{
+    position: absolute;
+    top: 28vw;
+    left: 42vw;    
+    opacity: 0.8;
+}
+
+.cormorant-text{
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.berkshire-swash-regular {
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .engagement-text {
+    position: absolute;
+    top: 36vw;
+    left: 12vw;    
+    opacity: 0.8;
+  }
+
+  .wedding-text{
+    position: absolute;
+    top: 36vw;
+    left: 78vw;    
+    opacity: 0.8;
+  }
+
+  .tick{
+    scale: 25%
+  }
